@@ -9,4 +9,5 @@ commands:
   discord:
     aliases: [dc]
   ShootMode:
-    aliases: [sh, shootm, mshoot]
+    aliases: [sh, shootm, smode]
+
