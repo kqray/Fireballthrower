@@ -8,3 +8,5 @@ website: shiggy.eu
 commands:
   discord:
     aliases: [dc]
+  ShootMode:
+    aliases: [sh, shootm, mshoot]
