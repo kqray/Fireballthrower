@@ -1,0 +1,10 @@
+name: Fireballthrower
+version: '${project.version}'
+main: eu.shiggy.discord.Discord
+api-version: 1.17
+authors: [ kqray ]
+description: sends you a discord invite and shoots fireballs with an stick
+website: shiggy.eu
+commands:
+  discord:
+    aliases: [dc]
